@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vivek3124
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Software develoment and Machine learning.
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
